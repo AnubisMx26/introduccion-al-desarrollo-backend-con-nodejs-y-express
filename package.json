@@ -1,0 +1,16 @@
+{
+  "name": "cusor-nodejs",
+  "version": "0.0.1",
+  "description": "introduccion a nodejs",
+  "main": "src/index.js",
+  "scripts": {
+    "start":"node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Sandoval",
+  "license": "MIT",
+  "dependencies": {
+    "countries-list": "^2.5.4",
+    "country-list": "^2.2.0"
+  }
+}
